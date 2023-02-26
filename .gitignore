@@ -1,0 +1,5 @@
+venv
+.idea
+model/*.joblib
+dataset/*.csv
+helper/__pycache__
